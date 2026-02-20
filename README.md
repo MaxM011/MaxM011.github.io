@@ -11,7 +11,7 @@ Välkommen till min E-portfolio! Jag är en civilingenjörsstudent inom Informat
 ---
 
 ## Om mig
-Jag har en gedigen grund i C-programmering och har under min tid på KTH fördjupat mig i inbyggda system, parallellprogrammering och datastrukturer. Utöver mina studier arbetar jag som Data Annotator på **Neko Health**, där jag tränat min förmåga för precision och kvalitetssäkring. Jag drivs av att lösa komplexa problem och skapa robust mjukvara som gör skillnad i den fysiska världen.
+Jag har en gedigen grund i C-programmering och har under min tid på KTH fördjupat mig i inbyggda system, parallellprogrammering och datastrukturer. Utöver mina studier arbetar jag som Data Annoterare på **Neko Health**, där jag tränat min förmåga för precision och kvalitetssäkring. Jag drivs av att lösa komplexa problem och skapa robust mjukvara som gör skillnad i den fysiska världen.
 
 ---
 
